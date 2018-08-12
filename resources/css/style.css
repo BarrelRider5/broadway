@@ -1,1 +1,43 @@
+body {
+  font-family: Helvetica, Arial;
+  text-align: center;
+}
 
+h1, h2 h3 {
+  font-weight: bold;
+}
+
+h1 {
+  background: url(resources\images_and_icons\the_flatiron_building_background_image.png);
+  color: 
+  font-size: 70px;
+}
+
+.toplinks a, .bottomlinks a {
+  color: white;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.icons p, .moreinfo p {
+  font-size: 14px;
+}
+
+#newyork {
+  color: white;
+}
+
+.copyright {
+  font-size: 11px;
+}
+
+.copyright p {
+  text-align: left;
+}
